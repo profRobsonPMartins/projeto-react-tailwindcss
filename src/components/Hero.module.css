@@ -1,0 +1,8 @@
+
+
+.hero{
+    background-image: url(./img/testando01.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
